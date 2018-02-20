@@ -9,6 +9,5 @@ Nothing fancy. It’ll probably be replaced by a native feature here soon. Until
 1. Download the .PSD
 2. Edit/Export
 3. Add it as a custom theme (Change Theme > Create Custom Theme)
-4. Chill out
-![twitch](https://media.giphy.com/media/iTOSoEs4eFwqs/200w_d.gif)
+4. Chill out <br>![twitch](https://media.giphy.com/media/iTOSoEs4eFwqs/200w_d.gif)
 5. Share/retweet if you like: [@isolary](https://twitter.com/isolary)
